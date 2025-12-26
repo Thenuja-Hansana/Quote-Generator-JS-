@@ -20,6 +20,7 @@ body{
     align-items: center;
     justify-content: center;
 
+<<<<<<< HEAD
 }
 
 .quote-container{
@@ -31,3 +32,6 @@ body{
     box-shadow: 0 10px 10px 10px rgba(0,0,0,0.2);
 }
 
+=======
+}
+>>>>>>> c8f60fb7a449a1fc4da61800529f1c8271e41dd9
